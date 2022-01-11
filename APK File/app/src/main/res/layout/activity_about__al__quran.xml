@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    android:scrollbarStyle="insideInset"
+    android:scrollbars="vertical">
+
+    <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/white"
+        tools:context=".About_Al_Quran">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="কুরআন সম্পর্কে সংক্ষিপ্ত বর্ণনা"
+            android:textSize="30dp"
+            android:textColor="@color/black"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran2"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran3"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran4"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran5"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran6"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/shortQuran7"
+            android:textSize="19dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</ScrollView>
