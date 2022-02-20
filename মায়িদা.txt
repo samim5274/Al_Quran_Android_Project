@@ -1305,6 +1305,2069 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="10dp"
+                android:text="وَ اِذَا جَآءُوۡکُمۡ قَالُوۡۤا اٰمَنَّا وَ قَدۡ دَّخَلُوۡا بِالۡکُفۡرِ  وَ ہُمۡ  قَدۡ خَرَجُوۡا بِہٖ ؕ وَ اللّٰہُ  اَعۡلَمُ  بِمَا کَانُوۡا یَکۡتُمُوۡنَ ﴿۶۱﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া ইযা- জাঊকুম কা-লূআ-মান্না-ওয়া কাদ দাখালূবিলকুফরি ওয়া হুম কাদ খারাজু বিহী ওয়াল্লা-হু আ‘লামূবিমা-কা-নূইয়াকতুমূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬১.আর যখন তারা তোমাদের নিকট আসে তখন বলে, আমরা ঈমান এনেছি; অথচ তারা কুফরী নিয়েই এসেছিল এবং তারা কুফরী নিয়েই চলে গেছে; এবং আল্লাহতো খুব ভাল জানেন যা তারা গোপন রাখে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="When they come to you, they say: We believe. But in fact they enter with (an intention of) disbelief and they go out with the same. And Allah knows all what they were hiding."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ تَرٰی کَثِیۡرًا مِّنۡہُمۡ یُسَارِعُوۡنَ فِی الۡاِثۡمِ وَ الۡعُدۡوَانِ وَ اَکۡلِہِمُ السُّحۡتَ ؕ لَبِئۡسَ مَا کَانُوۡا یَعۡمَلُوۡنَ ﴿۶۲﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া তারা-কাছীরাম মিনহুম ইউছা-রি‘উনা ফিল ইছমি ওয়াল ‘উদওয়া-নি ওয়া আকলিহিমুছছুহতা লাবি’ছা মা-কা-নূইয়া‘মালূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬২.আর তুমি তাদের মধ্যে অনেককে দেখবে, দৌড়ে দৌড়ে পাপ, যুলম ও হারাম ভক্ষণে নিপতিত হচ্ছে; বাস্তবিকই তারা খুব মন্দ কাজ করছে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And you see many of them (Jews) hurrying for sin and transgression, and eating illegal things [as bribes and Riba (usury), etc.]. Evil indeed is that which they have been doing."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لَوۡ لَا یَنۡہٰہُمُ الرَّبّٰنِیُّوۡنَ وَ الۡاَحۡبَارُ عَنۡ قَوۡلِہِمُ الۡاِثۡمَ وَ اَکۡلِہِمُ السُّحۡتَ ؕ لَبِئۡسَ مَا  کَانُوۡا  یَصۡنَعُوۡنَ ﴿۶۳﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লাওলা-ইয়ানহা-হুমুর রাব্বা-নিইয়ূনা ওয়াল আহবা-রু ‘আন কাওলিহিমুল ইছমা ওয়া আকলিহিমুছছুহতা লাবি’ছা মা-কা-নূইয়াসনা‘ঊন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৩.তাদেরকে আল্লাহওয়ালা এবং আলিমগণ পাপের বাক্য হতে এবং হারাম মাল ভক্ষণ করা হতে কেন নিষেধ করছেনা? তাদের এ অভ্যাস নিন্দনীয়।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Why do not the rabbis and the religious learned men forbid them from uttering sinful words and from eating illegal things. Evil indeed is that which they have been performing."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ قَالَتِ الۡیَہُوۡدُ یَدُ اللّٰہِ مَغۡلُوۡلَۃٌ ؕ غُلَّتۡ اَیۡدِیۡہِمۡ وَ لُعِنُوۡا بِمَا قَالُوۡا ۘ بَلۡ یَدٰہُ مَبۡسُوۡطَتٰنِ ۙ یُنۡفِقُ  کَیۡفَ یَشَآءُ ؕ وَ لَیَزِیۡدَنَّ کَثِیۡرًا مِّنۡہُمۡ مَّاۤ  اُنۡزِلَ  اِلَیۡکَ مِنۡ رَّبِّکَ طُغۡیَانًا وَّ کُفۡرًا ؕ وَ اَلۡقَیۡنَا بَیۡنَہُمُ الۡعَدَاوَۃَ وَ الۡبَغۡضَآءَ  اِلٰی یَوۡمِ الۡقِیٰمَۃِ ؕ کُلَّمَاۤ  اَوۡقَدُوۡا  نَارًا لِّلۡحَرۡبِ اَطۡفَاَہَا اللّٰہُ ۙ وَ یَسۡعَوۡنَ فِی الۡاَرۡضِ فَسَادًا ؕ وَ اللّٰہُ  لَا یُحِبُّ الۡمُفۡسِدِیۡنَ ﴿۶۴﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়াকা-লাতিল ইয়াহূদুইয়াদুল্লা-হি মাগলূলাতুন গুল্লাত আইদীহিম ওয়া লু‘ইনূবিমা-কালূ । বাল ইয়াদা-হু মাবছূতাতা-নি  ইউনফিকুকাইফা ইয়াশাউ ওয়ালাইয়াঝীদান্না কাছীরাম মিনহুম মাউনঝিলা ইলাইকা মির রাব্বিকা তুগইয়া-নাওঁ ওয়াকুফরাওঁ ওয়া আলকাইনা-বাইনাহুমুল ‘আদা-ওয়াতা ওয়াল বাগদাআ ইলাইয়াওমিল কিয়া-মাতি কুল্লামাআওকাদূনা-রাল লিলহারবি আতফাআহাল্লা-হু ওয়া ইয়াছ‘আওনা ফিল আরদিফাছা-দাওঁ ওয়াল্লা-হু লা-ইউহিব্বুল মুফছিদীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৪.আর ইয়াহুদীরা বলেঃ আল্লাহর হাত বন্ধ হয়ে গেছে। তাদেরই হাত বন্ধ, এবং তাদের এই উক্তির দরুণ তারা অভিশপ্ত। বরং তাঁর (আল্লাহর) তো উভয় হাত উম্মুক্ত, যেরূপ ইচ্ছা তিনি ব্যয় করেন; আর যে বিষয় তোমার নিকট তোমার রবের পক্ষ হতে প্রেরিত হয় তা তাদের মধ্যে অনেকের নাফরমানী ও কুফর বৃদ্ধির কারণ হয়, এবং তাদের পরস্পরের মধ্যে শক্রতা ও হিংসা নিক্ষেপ করেছি কিয়ামাত পর্যন্ত; যখনই (মুসলিমদের বিরুদ্ধে) যুদ্ধাগ্নি প্রজ্জ্বলিত করতে চায়, আল্লাহ তা নির্বাপিত করে দেন; তারা ভূ-পৃষ্ঠে অশান্তি ছড়িয়ে বেড়ায়; আর আল্লাহ অশান্তি বিস্তারকারীদেরকে ভালবাসেননা।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="The Jews say: Allah's Hand is tied up (i.e. He does not give and spend of His Bounty). Be their hands tied up and be they accursed for what they uttered. Nay, both His Hands are widely outstretched. He spends (of His Bounty) as He wills. Verily, the Revelation that has come to you from Allah increases in most of them their obstinate rebellion and disbelief. We have put enmity and hatred amongst them till the Day of Resurrection. Every time they kindled the fire of war, Allah extinguished it; and they (ever) strive to make mischief on earth. And Allah does not like the Mufsidun (mischief-makers)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ لَوۡ  اَنَّ  اَہۡلَ الۡکِتٰبِ اٰمَنُوۡا وَ اتَّقَوۡا لَکَفَّرۡنَا عَنۡہُمۡ سَیِّاٰتِہِمۡ وَ لَاَدۡخَلۡنٰہُمۡ  جَنّٰتِ النَّعِیۡمِ ﴿۶۵﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়ালাও আন্না আহলাল কিতা-বি আ-মানূওয়াত্তাকাও লাকাফফারনা-‘আনহুম ছাইয়িআতিহিম ওয়ালা আদখালনা-হুম জান্না-তিন না‘ঈম।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৫.আর এই আহলে কিতাব (ইয়াহুদী ও নাসারাহ্) যদি ঈমান আনত এবং তাকওয়া অবলম্বন করত, আমি অবশ্যই তাদের সমস্ত অন্যায় ক্ষমা করে দিতাম এবং অবশ্যই তাদেরকে নি‘আমাতের উদ্যানসমূহে দাখিল করতাম।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And if only the people of the Scripture (Jews and Christians) had believed (in Muhammad SAW) and warded off evil (sin, ascribing partners to Allah) and had become Al-Muttaqun (the pious - see V. 2:2) We would indeed have blotted out their sins and admitted them to Gardens of pleasure (in Paradise)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ لَوۡ اَنَّہُمۡ اَقَامُوا التَّوۡرٰىۃَ وَ الۡاِنۡجِیۡلَ وَ مَاۤ  اُنۡزِلَ اِلَیۡہِمۡ  مِّنۡ رَّبِّہِمۡ لَاَکَلُوۡا مِنۡ فَوۡقِہِمۡ وَ مِنۡ تَحۡتِ اَرۡجُلِہِمۡ ؕ مِنۡہُمۡ اُمَّۃٌ  مُّقۡتَصِدَۃٌ ؕ وَ کَثِیۡرٌ  مِّنۡہُمۡ سَآءَ مَا یَعۡمَلُوۡنَ ﴿٪۶۶﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া লাও আন্নাহুম আকা-মুত তাওরা-তা ওয়াল ইনজিলা ওয়ামাউনঝিলা ইলাইহিম মির রাব্বিহিম লাআকালূমিন ফাওকিহিম ওয়া মিন তাহতি আরজুলিহিম মিনহুম উম্মাতুম মুকতাসিদাতুওঁ ওয়াকাছিরুম মিনহুম ছাআ মা-ইয়া‘মালূন।ুে"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৬.আর যদি তারা তাওরাত ও ইঞ্জীলের এবং যে কিতাব (অর্থাৎ কুরআন) তাদের রবের পক্ষ হতে তাদের প্রতি অবতীর্ণ হয়েছে, ওর থেকে যথারীতি ‘আমলকারী হত তাহলে তারা উপর (অর্থাৎ আকাশ) হতে এবং নিম্ন (অর্থাৎ যমীন) হতে প্রাচুর্যের সাথে আহার পেত; তাদের একদলতো সরল পথের অনুগামী; আর তাদের অধিকাংশই এরূপ যে, তাদের কার্যকলাপ অতি জঘন্য।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And if only they had acted according to the Taurat (Torah), the Injeel (Gospel), and what has (now) been sent down to them from their Lord (the Quran), they would surely have gotten provision from above them and from underneath their feet. There are from among them people who are on the right course (i.e. they act on the revelation and believe in Prophet Muhammad SAW like 'Abdullah bin Salam), but many of them do evil deeds."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="یٰۤاَیُّہَا الرَّسُوۡلُ بَلِّغۡ  مَاۤ اُنۡزِلَ اِلَیۡکَ  مِنۡ رَّبِّکَ ؕ وَ  اِنۡ لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسَالَتَہٗ ؕ وَ اللّٰہُ یَعۡصِمُکَ مِنَ النَّاسِ ؕ اِنَّ اللّٰہَ  لَا یَہۡدِی الۡقَوۡمَ الۡکٰفِرِیۡنَ ﴿۶۷﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ইয়াআইয়ুহার রাছূলুবালিলগ মা উনযিলা ইলাইকা মির রাব্বিকা ওয়া ইল্লাম তাফ‘আল ফামা-বাল্লাগতা রিছা-লাতাহূ ওয়াল্লা-হু ইয়া‘সিমুকা মিনান্না-ছি ইন্নাল্লা-হা লাইয়াহদিল কাওমাল কা-ফিরীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৭.হে রাসূল! যা কিছু তোমার রবের পক্ষ থেকে তোমার উপর অবতীর্ণ করা হয়েছে, তুমি (মানুষকে) সব কিছুই পৌঁছে দাও। আর যদি এরূপ না কর তাহলে তোমাকে অর্পিত দায়িত্ব পালন করলেনা; আল্লাহ তোমাকে মানুষ (অর্থাৎ কাফির) হতে রক্ষা করবেন। নিশ্চয়ই আল্লাহ কাফির সম্প্রদায়কে সুপথ প্রদর্শন করেননা।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="O Messenger (Muhammad SAW)! Proclaim (the Message) which has been sent down to you from your Lord. And if you do not, then you have not conveyed His Message. Allah will protect you from mankind. Verily, Allah guides not the people who disbelieve."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="قُلۡ یٰۤاَہۡلَ الۡکِتٰبِ لَسۡتُمۡ عَلٰی شَیۡءٍ حَتّٰی تُقِیۡمُوا التَّوۡرٰىۃَ وَ الۡاِنۡجِیۡلَ وَ مَاۤ  اُنۡزِلَ اِلَیۡکُمۡ مِّنۡ رَّبِّکُمۡ ؕ وَ لَیَزِیۡدَنَّ  کَثِیۡرًا مِّنۡہُمۡ مَّاۤ  اُنۡزِلَ  اِلَیۡکَ مِنۡ رَّبِّکَ طُغۡیَانًا وَّ کُفۡرًا ۚ فَلَا تَاۡسَ عَلَی الۡقَوۡمِ  الۡکٰفِرِیۡنَ ﴿۶۸﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="কুল ইয়াআহলাল কিতা-বি লাছতুম ‘আলা-শাইয়িন হাত্তা-তুকীমুত তাওরা-তা ওয়াল ইনজীলা ওয়ামাউনঝিলা ইলাইকুম মির রাব্বিকুম ওয়ালাইয়াঝীদান্না কাছীরাম মিনহুম মাউনঝিলা ইলাইকা মির রাব্বিকা তুগইয়া-নাওঁ ওয়া কুফরান ফালা-তা’ছা ‘আলাল কাওমিল কা-ফিরীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৮.তুমি বলে দাওঃ হে আহলে কিতাব! তোমরা কোনো পথেই প্রতিষ্ঠিত নও যে পর্যন্ত না তাওরাত, ইঞ্জীল এবং যে কিতাব (অর্থাৎ কুরআন) তোমাদের নিকট তোমাদের রবের পক্ষ থেকে পাঠানো হয়েছে তার উপর আমল কর; আর অবশ্যই যা তোমার প্রতি তোমার রবের পক্ষ থেকে প্রেরণ করা হয়, তা তাদের মধ্যে অনেকেরই নাফরমানী ও কুফর বৃদ্ধির কারণ হয়ে যায়। অতএব তুমি এই কাফিরদের জন্য মনঃক্ষুন্ন হয়োনা।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Say (O Muhammad SAW) O people of the Scripture (Jews and Christians)! You have nothing (as regards guidance) till you act according to the Taurat (Torah), the Injeel (Gospel), and what has (now) been sent down to you from your Lord (the Quran). Verily, that which has been sent down to you (Muhammad SAW) from your Lord increases in many of them their obstinate rebellion and disbelief. So be not sorrowful over the people who disbelieve."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="اِنَّ الَّذِیۡنَ اٰمَنُوۡا وَ الَّذِیۡنَ ہَادُوۡا وَ الصّٰبِـُٔوۡنَ وَ النَّصٰرٰی مَنۡ اٰمَنَ بِاللّٰہِ وَ الۡیَوۡمِ الۡاٰخِرِ  وَ عَمِلَ صَالِحًا فَلَا خَوۡفٌ عَلَیۡہِمۡ  وَ لَا  ہُمۡ  یَحۡزَنُوۡنَ ﴿۶۹﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ইন্নাল্লাযীনা আ-মানূওয়াল্লাযীনা হা-দূওয়াসসা-বিঊনা ওয়ান্নাসা-রা-মান আ-মানা বিল্লা-হি ওয়াল ইয়াওমিল আ-খিরি ওয়া ‘আমিলা সা-লিহান ফালা-খাওফুন‘আলাইহিম ওয়ালা-হুম ইয়াহঝানূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৬৯.এটা সুনিশ্চিত যে, মুসলিম, ইয়াহুদী, সাবেঈ এবং খৃষ্টানদের মধ্যে যে ব্যক্তি আল্লাহর প্রতি ও কিয়ামাতের প্রতি বিশ্বাস রাখে এবং সৎ কাজ করে, এইরূপ লোকদের জন্য শেষ দিনে না কোন প্রকার ভয় থাকবে আর না তারা চিন্তান্বিত হবে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Surely, those who believe (in the Oneness of Allah, in His Messenger Muhammad SAW and all that was revealed to him from Allah), those who are the Jews and the Sabians and the Christians, - whosoever believed in Allah and the Last Day, and worked righteousness, on them shall be no fear, nor shall they grieve."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لَقَدۡ اَخَذۡنَا مِیۡثَاقَ بَنِیۡۤ  اِسۡرَآءِیۡلَ وَ اَرۡسَلۡنَاۤ  اِلَیۡہِمۡ رُسُلًا ؕ کُلَّمَا جَآءَہُمۡ رَسُوۡلٌۢ بِمَا لَا تَہۡوٰۤی اَنۡفُسُہُمۡ ۙ فَرِیۡقًا کَذَّبُوۡا وَ فَرِیۡقًا یَّقۡتُلُوۡنَ ﴿٭۷۰﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লাকাদ আখাযনা-মীছা-কা বানীইছরাঈলা ওয়া আরছালনাইলাইহিম রুছুলান কুল্লামা-জাআহুম রাছূলুম বিমা-লা-তাহওয়াআনফুছুহুম ফারীকান কাযযাবূওয়া ফারীকাইঁ ইয়াকতুলূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭০.আমি বানী ইসরাঈল হতে অঙ্গীকার নিয়েছি এবং তাদের কাছে বহু রাসূল প্রেরণ করেছি; যখনই তাদের কাছে কোন নাবী আগমন করত এমন কোন বিধান নিয়ে যা তাদের মনঃপুত হতনা, তখনই তারা কতিপয়কে মিথ্যাবাদী সাব্যস্ত করত এবং কতিপয়কে হত্যাই করে ফেলত।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Verily, We took the covenant of the Children of Israel and sent them Messengers. Whenever there came to them a Messenger with what they themselves desired not - a group of them they called liars, and others among them they killed."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ حَسِبُوۡۤا اَلَّا تَکُوۡنَ فِتۡنَۃٌ فَعَمُوۡا وَ صَمُّوۡا ثُمَّ تَابَ اللّٰہُ عَلَیۡہِمۡ ثُمَّ عَمُوۡا وَ صَمُّوۡا کَثِیۡرٌ مِّنۡہُمۡ ؕ وَ اللّٰہُ بَصِیۡرٌۢ بِمَا یَعۡمَلُوۡنَ ﴿۷۱﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া হাছিবূআল্লা-তাকূনা ফিতনাতুন ফা‘আমূওয়া সাম্মূছু ম্মা তা-বাল্লা-হু ‘আলাইহিম ছু ম্মা ‘আমূওয়া সাম্মূকাছীরুম মিনহুম ওয়াল্লা-হু বাসীরুম বিমা-ইয়া‘মালূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭১.আর তারা এই ধারণাই করেছিল যে, কোন শাস্তিই হবেনা, ফলে তারা আরও অন্ধ ও বধির হয়ে গেল, অতঃপর দীর্ঘকাল পর আল্লাহ তাদের প্রতি করুণা করলেন; তবুও তাদের অধিকাংশই অন্ধ ও বধিরই রইল। বস্তুতঃ আল্লাহ তাদের কার্যকলাপসমূহ প্রত্যক্ষ করেন।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="They thought there will be no Fitnah (trial or punishment), so they became blind and deaf; after that Allah turned to them (with Forgiveness); yet again many of them became blind and deaf. And Allah is the All-Seer of what they do."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لَقَدۡ کَفَرَ الَّذِیۡنَ قَالُوۡۤا اِنَّ اللّٰہَ ہُوَ الۡمَسِیۡحُ ابۡنُ مَرۡیَمَ ؕ وَ قَالَ الۡمَسِیۡحُ یٰبَنِیۡۤ  اِسۡرَآءِیۡلَ اعۡبُدُوا اللّٰہَ رَبِّیۡ وَ رَبَّکُمۡ ؕ اِنَّہٗ مَنۡ یُّشۡرِکۡ بِاللّٰہِ فَقَدۡ حَرَّمَ اللّٰہُ عَلَیۡہِ الۡجَنَّۃَ وَ مَاۡوٰىہُ النَّارُ ؕ وَ مَا لِلظّٰلِمِیۡنَ مِنۡ اَنۡصَارٍ ﴿۷۲﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লাকাদ কাফারাল্লাযীনা কা-লূইন্নাল্লা-হা হুওয়াল মাছীহুবনুমারইয়ামা ওয়া কা-লাল মাছীহু ইয়া-বানীইছরাঈলা‘বুদুল্লা-হা রাববী ওয়া রাব্বাকুম ইন্নাহূমাইঁ ইউশরিক বিল্লাহি ফাকাদ হাররামাল্লা-হু ‘আলাইহিল জান্নাতা ওয়া মা’ওয়াহুন্না-রু ওয়ামা-লিজ্জালিমীনা মিন আনসা-র।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭২.নিশ্চয়ই তারা কাফির হয়েছে যারা বলে - মসীহ ইবনে মারইয়ামই আল্লাহ। অথচ মসীহ্ নিজেই বলেছিলঃ হে বানী ইসরাঈল! তোমরা আল্লাহর ইবাদাত কর! যিনি আমার রাব্ব এবং তোমাদেরও রাব্ব; নিশ্চয়ই যে ব্যক্তি আল্লাহর অংশী স্থাপন করবে, আল্লাহ তার জন্য জান্নাত হারাম করে দিবেন এবং তার বাসস্থান হবে জাহান্নাম; এবং এরূপ অত্যাচারীদের জন্য কোন সাহায্যকারী থাকবেনা।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Surely, they have disbelieved who say: Allah is the Messiah ['Iesa (Jesus)], son of Maryam (Mary). But the Messiah ['Iesa (Jesus)] said: O Children of Israel! Worship Allah, my Lord and your Lord. Verily, whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لَقَدۡ کَفَرَ الَّذِیۡنَ قَالُوۡۤا اِنَّ اللّٰہَ ثَالِثُ ثَلٰثَۃٍ ۘ وَ مَا مِنۡ  اِلٰہٍ  اِلَّاۤ اِلٰہٌ  وَّاحِدٌ ؕ وَ اِنۡ لَّمۡ یَنۡتَہُوۡا عَمَّا یَقُوۡلُوۡنَ لَیَمَسَّنَّ الَّذِیۡنَ  کَفَرُوۡا مِنۡہُمۡ  عَذَابٌ اَلِیۡمٌ ﴿۷۳﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লাকাদ কাফারাল্লাযীনা কা-লূইন্নাল্লা-হা ছা-লিছু ছালা-ছাহ । ওয়ামা-মিন ইলাহিন ইল্লাইলা-হুওঁ ওয়া-হিদুওঁ ওয়া ইল্লাম ইয়ানতাহূ‘আম্মা-ইয়াকূ লূনা লাইয়ামাছছান্নাল্লাযীনা কাফারূমিনহুম ‘আযা-বুন আলীম।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৩.নিঃসন্দেহে তারাও কাফির যারা বলেঃ ‘আল্লাহ তিনের (অর্থাৎ তিন মা‘বূদের) এক’, অথচ ইবাদাত পাবার যোগ্য এক আল্লাহ ছাড়া অন্য কেহই নেই; আর যদি তারা স্বীয় উক্তিসমূহ হতে নিবৃত্ত না হয় তাহলে তাদের মধ্যে যারা কুফরীতে অটল থাকবে তাদের উপর যন্ত্রণাদায়ক শাস্তি পতিত হবে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Surely, disbelievers are those who said: Allah is the third of the three (in a Trinity). But there is no ilah (god) (none who has the right to be worshipped) but One Ilah (God -Allah). And if they cease not from what they say, verily, a painful torment will befall the disbelievers among them."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="اَفَلَا یَتُوۡبُوۡنَ اِلَی اللّٰہِ وَ یَسۡتَغۡفِرُوۡنَہٗ ؕ وَ اللّٰہُ غَفُوۡرٌ  رَّحِیۡمٌ ﴿۷۴﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="আফালা-ইয়াতূবূনা ইলাল্লা-হি ওয়া ইয়াছতাগফিরূনাহু ওয়াল্লা-হু গাফূরুর রাহীম।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৪.তারা আল্লাহর সমীপে কেন তাওবাহ করেনা এবং তাঁর কাছে ক্ষমা প্রার্থনা করেনা? অথচ আল্লাহ অত্যন্ত ক্ষমাশীল, পরম করুণাময়।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Will they not repent to Allah and ask His Forgiveness? For Allah is Oft-Forgiving, Most Merciful."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="مَا الۡمَسِیۡحُ ابۡنُ مَرۡیَمَ  اِلَّا رَسُوۡلٌ ۚ قَدۡ خَلَتۡ مِنۡ قَبۡلِہِ الرُّسُلُ ؕ وَ اُمُّہٗ صِدِّیۡقَۃٌ ؕ کَانَا یَاۡکُلٰنِ الطَّعَامَ ؕ اُنۡظُرۡ کَیۡفَ نُبَیِّنُ لَہُمُ الۡاٰیٰتِ ثُمَّ انۡظُرۡ اَنّٰی یُؤۡفَکُوۡنَ ﴿۷۵﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="মাল মাছীহুবনুমারইয়ামা ইল্লা-রাছূলুন কাদ খালাত মিন কাবলিহিররুছুলু ওয়া উম্মুহূসিদ্দীকাতুন কা-না-ইয়া’কুলা-নিততা‘আ-মা উনজু র কাইফা নুবাইয়িনু লাহুমুল আ-য়া-তি ছুম্মানজু র আন্না-ইউ‘ফাকূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৫.মারইয়াম পুত্র মাসীহ কেবল একজন রাসূল। তার পূর্বে অনেক রাসূল বিগত হয়েছে এবং তার মা ছিল অতি সত্যবাদী। তারা উভয়ে খাবার খেত। দেখ, কীভাবে আমি তাদের জন্য আয়াতসমূহ বর্ণনা করছি। অতঃপর দেখ, কীভাবে তাদেরকে সত্যবিমুখ করা হচ্ছে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="The Messiah ['Iesa (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddiqah [i.e. she believed in the words of Allah and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded away (from the truth)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="قُلۡ اَتَعۡبُدُوۡنَ مِنۡ دُوۡنِ اللّٰہِ مَا لَا یَمۡلِکُ لَکُمۡ ضَرًّا وَّ لَا  نَفۡعًا ؕ وَ اللّٰہُ ہُوَ  السَّمِیۡعُ  الۡعَلِیۡمُ ﴿۷۶﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="কুল আতা‘বুদূ না মিন দূ নিল্লা-হি মা-লা-ইয়ামলিকুলাকুম দাররাওঁ ওয়ালা-নাফ‘আওঁ ওয়াল্লা-হু হুওয়াছ ছামী‘উল ‘আলীম।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৬.তুমি বলে দাওঃ তোমরা কি আল্লাহ ছাড়া এমন বস্তুর ইবাদাত কর যা তোমাদের না কোন অপকার করার ক্ষমতা রাখে, আর না কোন উপকার করার? অথচ আল্লাহই সব শুনেন, জানেন।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Say (O Muhammad SAW to mankind): How do you worship besides Allah something which has no power either to harm or to benefit you? But it is Allah Who is the All-Hearer, All-Knower."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="قُلۡ یٰۤاَہۡلَ الۡکِتٰبِ لَا تَغۡلُوۡا فِیۡ دِیۡنِکُمۡ غَیۡرَ  الۡحَقِّ وَ لَا  تَتَّبِعُوۡۤا اَہۡوَآءَ قَوۡمٍ قَدۡ ضَلُّوۡا مِنۡ قَبۡلُ وَ اَضَلُّوۡا کَثِیۡرًا وَّ ضَلُّوۡا عَنۡ سَوَآءِ السَّبِیۡلِ ﴿٪۷۷﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="কুলইয়াআহলাল কিতা-বি লা-তাগলূ ফী দীনিকুমগায়রালহাক্কি ওয়ালাতাত্তাবি‘ঊআহওয়াআ কাওমিন কাদ দাললূমিন কাবলুওয়া আদাললূ কাছীরাওঁ ওয়া দাললূ‘আন ছাওয়াইছছাবীল।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৭.তুমি বলঃ হে আহলে কিতাব! তোমরা নিজেদের ধর্মে অন্যায়ভাবে সীমা লংঘন করনা, এবং ঐ সম্প্রদায়ের (ভিত্তিহীন) কল্পনার উপর চলোনা যারা অতীতে নিজেরাও ভ্রান্তিতে পতিত হয়েছে এবং অন্যান্যদেরকে ভ্রান্তিতে নিক্ষেপ করেছে। বস্তুতঃ তারা সরল পথ থেকে দূরে সরে পড়েছিল।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Say (O Muhammad SAW): O people of the Scripture (Jews and Christians)! Exceed not the limits in your religion (by believing in something) other than the truth, and do not follow the vain desires of people who went astray in times gone by, and who misled many, and strayed (themselves) from the Right Path."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لُعِنَ الَّذِیۡنَ کَفَرُوۡا مِنۡۢ بَنِیۡۤ  اِسۡرَآءِیۡلَ عَلٰی لِسَانِ دَاوٗدَ  وَ عِیۡسَی ابۡنِ مَرۡیَمَ ؕ ذٰلِکَ بِمَا عَصَوۡا وَّ کَانُوۡا یَعۡتَدُوۡنَ ﴿۷۸﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লু‘ইনাল্লাযীনা কাফারূ মিম বানীইছরাঈূলা ‘আলা-লিছা-নি দা-ঊদা ওয়া ‘ঈছাবনি মারইয়ামা যা-লিকা বিমা-‘আসাওঁ ওয়া কা-নূইয়া‘তাদূ ন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৮.বানী ইসরাঈলের মধ্যে যারা কাফির ছিল, তাদের উপর অভিসম্পাত করা হয়েছিল দাঊদ ও ঈসা ইবনে মারইয়ামের মুখে; এই লা’নত এ কারণে করা হয়েছিল যে, তারা অবাধ্য ছিল এবং সীমালংঘন করত।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud (David) and 'Iesa (Jesus), son of Maryam (Mary). That was because they disobeyed (Allah and the Messengers) and were ever transgressing beyond bounds."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="کَانُوۡا لَا یَتَنَاہَوۡنَ عَنۡ مُّنۡکَرٍ فَعَلُوۡہُ ؕ لَبِئۡسَ مَا کَانُوۡا یَفۡعَلُوۡنَ ﴿۷۹﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="কা-নূলা-ইয়াতানাহাওনা ‘আম মুনকারিন ফা‘আলূহু লাবি’ছা মা-কা-নূইয়াফ‘আলূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৭৯.তারা যে অন্যায় কাজ করেছিল তা হতে একে অপরকে নিষেধ করতনা; বাস্তবিকই তাদের কাজ ছিল অত্যন্ত গর্হিত।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="They used not to forbid one another from the Munkar (wrong, evil-doing, sins, polytheism, disbelief, etc.) which they committed. Vile indeed was what they used to do."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="تَرٰی کَثِیۡرًا مِّنۡہُمۡ یَتَوَلَّوۡنَ الَّذِیۡنَ کَفَرُوۡا ؕ لَبِئۡسَ مَا قَدَّمَتۡ لَہُمۡ اَنۡفُسُہُمۡ اَنۡ سَخِطَ اللّٰہُ عَلَیۡہِمۡ وَ فِی الۡعَذَابِ ہُمۡ خٰلِدُوۡنَ ﴿۸۰﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="তারা-কাছীরাম মিনহুম ইয়াতাওয়াল্লাওনাল্লাযীনা কাফারূ লাবি’ছা মা-কাদ্দামাত লাহুম আনফুছুহুম আন ছাখিতাল্লা-হু ‘আলাইহিম ওয়া ফিল ‘আযা-বি হুম খা-লিদূ ন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮০.তুমি তাদের (ইয়াহুদীদের) অনেককে দেখবে, তারা কাফিরদের সাথে বন্ধুত্ব করছে; যে কাজ তারা ভবিষ্যতের জন্য করেছে তা নিঃসন্দেহে মন্দ, আল্লাহ তাদের প্রতি অসন্তুষ্ট হয়েছেন। ফলতঃ তারা আযাবে চিরকাল থাকবে।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="You see many of them taking the disbelievers as their Auliya' (protectors and helpers). Evil indeed is that which their ownselves have sent forward before them, for that (reason) Allah's Wrath fell upon them and in torment they will abide."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ لَوۡ کَانُوۡا یُؤۡمِنُوۡنَ بِاللّٰہِ وَ النَّبِیِّ  وَ مَاۤ اُنۡزِلَ اِلَیۡہِ مَا اتَّخَذُوۡہُمۡ اَوۡلِیَآءَ وَ لٰکِنَّ  کَثِیۡرًا  مِّنۡہُمۡ  فٰسِقُوۡنَ ﴿۸۱﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া লাও কা-নূইউ’মিনূনা বিল্লা-হি ওয়ান্নাবিইয়ি ওয়ামাউনঝিলা ইলাইহি মাত্তাখাযূহুম আওলিয়াআ ওয়ালা-কিন্না কাছীরাম মিনহুম ফা-ছিকূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮১.আর যদি তারা আল্লাহর প্রতি ঈমান আনতো এবং নাবীর প্রতি এবং ঐ কিতাবের (তাওরাতের) প্রতি যা তাঁর নাবীর নিকট প্রেরিত হয়েছিল, তাহলে তাদেরকে (মুশরিকদেরকে) কখনও বন্ধু রূপে গ্রহণ করতনা, কিন্তু তাদের অধিকাংশ লোকই ফাসিক।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And had they believed in Allah, and in the Prophet (Muhammad SAW) and in what has been revealed to him, never would they have taken them (the disbelievers) as Auliya' (protectors and helpers), but many of them are the Fasiqun (rebellious, disobedient to Allah)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لَتَجِدَنَّ اَشَدَّ النَّاسِ عَدَاوَۃً لِّلَّذِیۡنَ اٰمَنُوا الۡیَہُوۡدَ وَ الَّذِیۡنَ اَشۡرَکُوۡا ۚ وَ لَتَجِدَنَّ  اَقۡرَبَہُمۡ مَّوَدَّۃً  لِّلَّذِیۡنَ اٰمَنُوا الَّذِیۡنَ قَالُوۡۤا اِنَّا نَصٰرٰی ؕ ذٰلِکَ بِاَنَّ مِنۡہُمۡ قِسِّیۡسِیۡنَ وَ رُہۡبَانًا وَّ اَنَّہُمۡ لَا یَسۡتَکۡبِرُوۡنَ ﴿۸۲﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লাতাজিদান্না আশাদ্দান্না-ছি ‘আদা-ওয়াতাল লিলল্লাযীনা আ-মানুল ইয়াহূদাওয়াল্লাযীনা আশরাকূ ওয়ালাতাজিদান্না আকরাবাহুম মাওয়াদ্দাতাল লিলল্লাযীনা আ-মানুল্লাযীনা কালূইন্না-নাসা-রা- যা-লিকা বিআন্না মিনহুম কিছছীছীনা ওয়া রুহবা-নাওঁ ওয়া আন্নাহুম লা-ইয়াছতাকবিরূনা।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮২.তুমি মানবমন্ডলীর মধ্যে ইয়াহুদী ও মুশরিকদেরকে মুসলিমদের সাথে অধিক শক্রতা পোষণকারী পাবে, আর তন্মধ্যে মুসলিমদের সাথে বন্ধুত্ব রাখার অধিকতর নিকটবর্তী ঐ সব লোককে পাবে যারা নিজেদেরকে নাসারাহ্ (খৃষ্টান) বলে; এটা এ কারণে যে, তাদের মধ্যে বহু আলিম এবং বহু দরবেশ রয়েছে; আর এ কারণে যে, তারা অহংকারী নয়।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Verily, you will find the strongest among men in enmity to the believers (Muslims) the Jews and those who are Al-Mushrikun (see V. 2:105), and you will find the nearest in love to the believers (Muslims) those who say: We are Christians. That is because amongst them are priests and monks, and they are not proud."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ  اِذَا سَمِعُوۡا مَاۤ  اُنۡزِلَ  اِلَی الرَّسُوۡلِ تَرٰۤی اَعۡیُنَہُمۡ تَفِیۡضُ مِنَ  الدَّمۡعِ مِمَّا عَرَفُوۡا مِنَ الۡحَقِّ ۚ یَقُوۡلُوۡنَ رَبَّنَاۤ  اٰمَنَّا فَاکۡتُبۡنَا مَعَ الشّٰہِدِیۡنَ ﴿۸۳﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়া ইযা-ছামি‘ঊ মাউনঝিলা ইলার রাছূলি তারাআ‘ইউনাহুম তাফীদুমিনাদ দাম‘ই মিম্মা‘আরাফূমিনাল হাক্কি ইয়াকূলূনা রাব্বানাআ-মান্না-ফাকতুবনা-মা‘আশশা-হিদীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৩.আর যখন রাসূলের কাছে যা অবতীর্ণ হয়েছে তা শ্রবণ করে তখন তুমি দেখতে পাও যে, তাদের অশ্রু বইছে; এ কারণে যে, তারা সত্যকে উপলদ্ধি করতে পেরেছে। তারা এরূপ বলেঃ হে আমাদের রাব্ব! আমরা মু’মিন হয়ে গেলাম, সুতরাং আমাদেরকেও ঐ সব লোকের সাথে লিপিবদ্ধ করে নিন, যারা (মুহাম্মাদ ও কুরআনকে সত্য বলে) স্বীকার করে ।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And when they (who call themselves Christians) listen to what has been sent down to the Messenger (Muhammad SAW), you see their eyes overflowing with tears because of the truth they have recognised. They say: Our Lord! We believe; so write us down among the witnesses."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ مَا لَنَا لَا نُؤۡمِنُ بِاللّٰہِ وَ مَا جَآءَنَا مِنَ الۡحَقِّ ۙ وَ نَطۡمَعُ اَنۡ  یُّدۡخِلَنَا رَبُّنَا مَعَ  الۡقَوۡمِ الصّٰلِحِیۡنَ ﴿۸۴﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়ামা-লানা-লা-নু’মিনুবিল্লা-হি ওয়ামা-জাআনা-মিনাল হাক্কি ওয়া নাতমা‘উ আইঁ ইউদখিলানা-রাব্বুনা-মা‘আল কাওমিসসা-লিহীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৪.আর আমাদের কি এমন ওযর আছে, যে জন্য আমরা ঈমান আনবনা আল্লাহর প্রতি এবং সেই সত্যের প্রতি যা আমাদের কাছে পৌঁছেছে; অথচ এ আশা রাখবো যে, আমাদের রাব্ব নেককারদের সাথে আমাদেরকে শামিল করবেন?"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And why should we not believe in Allah and in that which has come to us of the truth (Islamic Monotheism)? And we wish that our Lord will admit us (in Paradise on the Day of Resurrection) along with the righteous people (Prophet Muhammad SAW and his Companions)."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="فَاَثَابَہُمُ اللّٰہُ بِمَا قَالُوۡا جَنّٰتٍ تَجۡرِیۡ مِنۡ تَحۡتِہَا الۡاَنۡہٰرُ خٰلِدِیۡنَ فِیۡہَا ؕ وَ ذٰلِکَ  جَزَآءُ   الۡمُحۡسِنِیۡنَ ﴿۸۵﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ফাআছাবাহুমুল্লা-হু বিমা-কা-লূজান্না-তিন তাজরী মিন তাহতিহাল আনহা-রু খা-লিদীনা ফীহা- ওয়া যা-লিকা জাঝাউল মুহছিনীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৫.ফলতঃ তাদের এই উক্তির বিনিময়ে আল্লাহ তাদেরকে এমন উদ্যানসমূহ প্রদান করবেন, যার তলদেশে নহর বইতে থাকবে, তারা তাতে অনন্তকাল অবস্থান করবে। সৎ কর্মশীলদের জন্য এটাই প্রতিদান!"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="So because of what they said, Allah rewarded them Gardens under which rivers flow (in Paradise), they will abide therein forever. Such is the reward of good-doers."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ الَّذِیۡنَ کَفَرُوۡا وَ کَذَّبُوۡا بِاٰیٰتِنَاۤ  اُولٰٓئِکَ  اَصۡحٰبُ  الۡجَحِیۡمِ ﴿٪۸۶﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়াল্লাযীনা কাফারূওয়া কাযযাবূবিআ-য়া-তিনাউলাইকা আসহা-বুল জাহীম।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৬.আর যারা কাফির হয়েছে এবং আমার আয়াতসমূহকে মিথ্যা বলেছে তারা হবে জাহান্নামের অধিবাসী।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="But those who disbelieved and belied Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), they shall be the dwellers of the (Hell) Fire."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡا لَا تُحَرِّمُوۡا طَیِّبٰتِ مَاۤ  اَحَلَّ اللّٰہُ لَکُمۡ وَ لَا تَعۡتَدُوۡا ؕ اِنَّ اللّٰہَ لَا  یُحِبُّ الۡمُعۡتَدِیۡنَ ﴿۸۷﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ইয়াআইয়ুহাল্লাযীনা আ-মানূলা-তুহাররিমূতাইয়িবা-তি মাআহাল্লাল্লা-হু লাকুম ওয়ালা-তা‘তাদূ ইন্নাল্লা-হা লা-ইউহিব্বুল মু‘তাদীন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৭.হে মু’মিনগণ! আল্লাহ যে সব বস্তু তোমাদের জন্য হালাল করেছেন তন্মধ্যে সুস্বাদু বস্তুগুলিকে হারাম করনা এবং সীমা লংঘন করনা; নিশ্চয়ই আল্লাহ সীমা লংঘনকারীদেরকে পছন্দ করেননা।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="O you who believe! Make not unlawful the Taiyibat (all that is good as regards foods, things, deeds, beliefs, persons, etc.) which Allah has made lawful to you, and transgress not. Verily, Allah does not like the transgressors."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="وَ کُلُوۡا مِمَّا رَزَقَکُمُ اللّٰہُ حَلٰلًا طَیِّبًا ۪ وَّ اتَّقُوا اللّٰہَ الَّذِیۡۤ اَنۡتُمۡ بِہٖ مُؤۡمِنُوۡنَ ﴿۸۸﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ওয়াকুলূমিম্মা- রাঝাকাকুমুল্লা-হু হালা-লান তাইয়িবাওঁ ওয়াত্তাকুল্লা-হাল্লাযীআনতুম বিহী মু’মিনূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৮.আর আল্লাহ তোমাদেরকে যা দান করেছেন তন্মধ্য হতে হালাল ও পবিত্র বস্তুগুলি আহার কর, এবং আল্লাহকে ভয় কর - যাঁর প্রতি তোমরা বিশ্বাসী।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="And eat of the things which Allah has provided for you, lawful and good, and fear Allah in Whom you believe."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="لَا یُؤَاخِذُکُمُ اللّٰہُ بِاللَّغۡوِ فِیۡۤ  اَیۡمَانِکُمۡ وَ لٰکِنۡ یُّؤَاخِذُکُمۡ بِمَا عَقَّدۡتُّمُ الۡاَیۡمَانَ ۚ فَکَفَّارَتُہٗۤ  اِطۡعَامُ عَشَرَۃِ مَسٰکِیۡنَ مِنۡ اَوۡسَطِ مَا تُطۡعِمُوۡنَ اَہۡلِیۡکُمۡ  اَوۡ  کِسۡوَتُہُمۡ اَوۡ تَحۡرِیۡرُ  رَقَبَۃٍ ؕ فَمَنۡ لَّمۡ یَجِدۡ فَصِیَامُ ثَلٰثَۃِ اَیَّامٍ ؕ ذٰلِکَ کَفَّارَۃُ  اَیۡمَانِکُمۡ  اِذَا حَلَفۡتُمۡ ؕ وَ احۡفَظُوۡۤا اَیۡمَانَکُمۡ ؕ کَذٰلِکَ یُبَیِّنُ اللّٰہُ لَکُمۡ  اٰیٰتِہٖ لَعَلَّکُمۡ  تَشۡکُرُوۡنَ ﴿۸۹﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="লা-ইউআ-খিযুকুমুল্লা-হু বিল লাগবিফীআইমা-নিকুম ওয়ালা-কিইঁ ইউআ-খিযুকুম বিমা‘আককাততুমুল আইমা-না ফাকাফফা-রাতুহূইত‘আ-মু‘আশারাতি মাছা-কীনা মিন আওছাতিমা-তুত‘ইমূনা আহলীকুম আও কিছওয়াতুহুম আও তাহরীরু রাকাবাতিন ফামাল্লাম ইয়াজিদ ফাসিয়া-মুছালা-ছাতি আইয়া-মিন যা-লিকা কাফফা-রাতুআইমানিকুম ইযা-হালাফতুম ওয়াহফাজূআইমা-নাকুম; কাযা-লিকা ইউবাইয়িনুল্লা-হু লাকুম আ-য়া-তিহী লা‘আল্লাকুম তাশকুরূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৮৯.আল্লাহ তোমাদের অর্থহীন কসমের জন্য তোমাদের পাকড়াও করবেননা, কিন্তু তিনি তোমাদেরকে ঐ কসমসমূহের জন্য পাকড়া করবেন যেগুলিকে তোমরা (ভবিষ্যত বিষয়ের প্রতি) দৃঢ় কর, সুতরাং ওর কাফফারা হচ্ছে দশজন অভাবগ্রস্তকে মধ্যম ধরণের খাদ্য প্রদান করা, যা তোমরা নিজ পরিবারের লোকদেরকে খাইয়ে থাক, কিংবা তাদেরকে পরিধেয় বস্ত্র দান করা (মধ্যম ধরণের), কিংবা একজন গোলাম কিংবা বাঁদী মুক্ত করা। আর যে ব্যক্তি সামর্থ্য রাখেনা সে (একাধারে) তিন দিন সিয়াম পালন করবে; এটা তোমাদের কসমসমূহের কাফ্ফারা যখন তোমরা কসম কর এবং অতঃপর ভঙ্গ কর এবং নিজেদের কসমসমূহকে রক্ষা করবে। এই রূপেই আল্লাহ তোমাদের জন্য স্বীয় বিধানসমূহ বর্ণনা করেন যেন তোমরা কৃতজ্ঞতা প্রকাশ কর।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="Allah will not punish you for what is uninentional in your oaths, but He will punish you for your deliberate oaths; for its expiation (a deliberate oath) feed ten Masakin (poor persons), on a scale of the average of that with which you feed your own families; or clothe them; or manumit a slave. But whosoever cannot afford (that), then he should fast for three days. That is the expiation for the oaths when you have sworn. And protect your oaths (i.e. do not swear much). Thus Allah make clear to you His Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) that you may be grateful."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا اِنَّمَا الۡخَمۡرُ وَ الۡمَیۡسِرُ وَ الۡاَنۡصَابُ وَ الۡاَزۡلَامُ رِجۡسٌ مِّنۡ  عَمَلِ الشَّیۡطٰنِ فَاجۡتَنِبُوۡہُ  لَعَلَّکُمۡ  تُفۡلِحُوۡنَ ﴿۹۰﴾"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="ইয়াআইয়ুহাল্লাযীনা আ-মানূইন্নামাল খামরু ওয়াল মাইছিরু ওয়াল আনসা-বুওয়াল আঝলা-মুরিজছুম মিন ‘আমালিশ শাইতা-নি ফাজতানিবূহু লা‘আল্লাকুম তুফলিহূন।"
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="৯০.হে মু’মিনগণ! নিশ্চয়ই মদ, জুয়া, মূর্তি ইত্যাদি এবং লটারীর তীর, এ সব গর্হিত বিষয়, শাইতানী কাজ ছাড়া আর কিছুই নয়। সুতরাং এ থেকে সম্পূর্ণ রূপে দূরে থাক, যেন তোমাদের কল্যাণ হয়।"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="O you who believe! Intoxicants (all kinds of alcoholic drinks), gambling, Al-Ansab, and Al-Azlam (arrows for seeking luck or decision) are an abomination of Shaitan's (Satan) handiwork. So avoid (strictly all) that (abomination) in order that you may be successful."
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#492C6E"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#000000"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text=""
+                android:textColor="#751921"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/custom_sura_layout"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
                 android:text=""
                 android:textColor="@color/black"
                 android:textSize="24sp" />
