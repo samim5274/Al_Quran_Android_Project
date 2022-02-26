@@ -9,14 +9,14 @@
     android:orientation="vertical"
     tools:context=".SuraList">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="সূরা সমূহ"
-        android:textColor="@color/black"
-        android:textSize="25dp"
-        android:textStyle="bold" />
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:gravity="center"-->
+<!--        android:text="সূরা সমূহ"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="25dp"-->
+<!--        android:textStyle="bold" />-->
 
     <ScrollView
         android:id="@+id/SV001"
